@@ -1,0 +1,12 @@
+wandb_version: 1
+
+batch_size:
+  value: 32
+epochs:
+  value: 50
+hidden_dim:
+  value: 30
+hidden_layers:
+  value: 3
+learning_rate:
+  value: 0.0940820916895861

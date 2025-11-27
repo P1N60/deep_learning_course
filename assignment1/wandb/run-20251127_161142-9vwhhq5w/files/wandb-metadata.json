@@ -1,0 +1,28 @@
+{
+  "os": "Linux-6.16.8-400.asahi.fc42.aarch64+16k-aarch64-with-glibc2.41",
+  "python": "CPython 3.13.9",
+  "startedAt": "2025-11-27T15:11:42.579354Z",
+  "program": "/home/victorvj/Documents/Uni/DL/deep_learning_course/assignment1/feedforwardAssignment.ipynb",
+  "codePath": "/home/victorvj/Documents/Uni/DL/deep_learning_course/assignment1/feedforwardAssignment.ipynb",
+  "codePathLocal": "feedforwardAssignment.ipynb",
+  "git": {
+    "remote": "https://github.com/P1N60/deep_learning_course",
+    "commit": "efae3be4d313d500000e32e0613054078332e167"
+  },
+  "email": "victor.guldregn@gmail.com",
+  "root": "/home/victorvj/Documents/Uni/DL/deep_learning_course/assignment1",
+  "host": "linus",
+  "executable": "/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "133807734784",
+      "used": "65486188544"
+    }
+  },
+  "memory": {
+    "total": "7870513152"
+  },
+  "writerId": "vin0cquibe9cc9wotu2tcfdn0l12abvx"
+}

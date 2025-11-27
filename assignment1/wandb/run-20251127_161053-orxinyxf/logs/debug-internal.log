@@ -1,0 +1,12 @@
+{"time":"2025-11-27T16:10:54.182619062+01:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-27T16:10:54.517405774+01:00","level":"INFO","msg":"stream: created new stream","id":"orxinyxf"}
+{"time":"2025-11-27T16:10:54.517574946+01:00","level":"INFO","msg":"stream: started","id":"orxinyxf"}
+{"time":"2025-11-27T16:10:54.517739577+01:00","level":"INFO","msg":"handler: started","stream_id":"orxinyxf"}
+{"time":"2025-11-27T16:10:54.517759077+01:00","level":"INFO","msg":"writer: started","stream_id":"orxinyxf"}
+{"time":"2025-11-27T16:10:54.517767411+01:00","level":"INFO","msg":"sender: started","stream_id":"orxinyxf"}
+{"time":"2025-11-27T16:10:57.719118332+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-27T16:10:58.555057538+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-27T16:10:58.558888325+01:00","level":"INFO","msg":"stream: closing","id":"orxinyxf"}
+{"time":"2025-11-27T16:10:58.558907701+01:00","level":"INFO","msg":"handler: closed","stream_id":"orxinyxf"}
+{"time":"2025-11-27T16:10:58.558951827+01:00","level":"INFO","msg":"sender: closed","stream_id":"orxinyxf"}
+{"time":"2025-11-27T16:10:58.558966536+01:00","level":"INFO","msg":"stream: closed","id":"orxinyxf"}
